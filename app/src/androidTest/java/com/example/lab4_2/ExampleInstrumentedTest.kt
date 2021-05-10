@@ -30,6 +30,6 @@ class RecyclerViewTest {
     @Test
     fun countItems() {
         Espresso.onView(withId(R.id.list))
-            .check(matches(withItemCount(itemsCount)))
+            .check(matches(withItemCountSecond(itemsCount)))
 }
 }
