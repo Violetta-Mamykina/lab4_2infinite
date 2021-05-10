@@ -23,7 +23,7 @@ import org.junit.Rule
  */
 @RunWith(AndroidJUnit4::class)
 class RecyclerViewTest {
-    val itemsCount = 96
+    val itemsCount = 288
     @get:Rule
     val rule = activityScenarioRule<MainActivity>()
 
