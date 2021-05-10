@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="deepPurple50">#EDE7F6</color>
+    <color name="deepPurple100">#D1C4E9</color>
+    <color name="deepPurple200">#B39DDB</color>
+    <color name="deepPurple300">#9575CD</color>
+    <color name="deepPurple400">#7E57C2</color>
+    <color name="deepPurple500">#673AB7</color>
+    <color name="deepPurple600">#5E35B1</color>
+    <color name="deepPurple700">#512DA8</color>
+    <color name="white">#FFFFFF</color>
+</resources>
